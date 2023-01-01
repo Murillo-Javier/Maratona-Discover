@@ -1,4 +1,4 @@
-alert("Aaplicação feita juntamente com a Rocketseat na NLW 01, em 2021")
+alert("Aplicação feita juntamente com a Rocketseat na NLW 01, em 2021")
 const Modal = {
     open(){
         // Abrir modal
